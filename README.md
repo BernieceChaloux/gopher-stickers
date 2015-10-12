@@ -1,6 +1,6 @@
 # Gopher Stickers
 
-If you like the quirky , funky , moody, furry little gophers; click [here](http://www.racetam.org/Oxiracetam/) to know more.<br>
+If you like the quirky , funky , moody, furry little gophers; click [here](http://www.racetam.org/Oxiracetam/) to know more.<br><br>
 The Go gopher was designed by Renee French.<br>
 The gopher stickers was made by Takuya Ueda .<br>
 Licensed under the Creative Commons 3.0 Attributions license.
