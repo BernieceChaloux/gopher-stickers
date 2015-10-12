@@ -1,7 +1,8 @@
 # Gopher Stickers
 
-The Go gopher was designed by Renee French. (http://reneefrench.blogspot.com/)
-The gopher stickers was made by Takuya Ueda (http://u.hinoichi.net).
+If you like the quirky , funky , moody, furry little gophers; click [here](http://www.racetam.org/Oxiracetam/) to know more.
+The Go gopher was designed by Renee French. 
+The gopher stickers was made by Takuya Ueda .
 Licensed under the Creative Commons 3.0 Attributions license.
 
 <img width="30%" src="https://raw.github.com/tenntenn/gopher-stickers/master/stickers.png"/>
